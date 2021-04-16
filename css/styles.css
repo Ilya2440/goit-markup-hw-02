@@ -86,7 +86,7 @@
     }
     /* Логотип */
     .logo {
-      font-family: Raleway;
+      font-family: sans-serif;
       font-weight: bold;
       font-size: 26px;
       line-height: 1.2;
@@ -94,7 +94,7 @@
       color: #212121;
     }
     .logo-web {
-      font-family: Raleway;
+      font-family: sans-serif;
       font-weight: bold;
       font-size: 26px;
       line-height: 1.2;
@@ -195,7 +195,7 @@
     }
     
     .logo-revers {
-      font-family: Raleway;
+      font-family: sans-serif;
       font-weight: bold;
       font-size: 26px;
       line-height: 1.2;
